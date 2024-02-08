@@ -14,8 +14,10 @@ Estilo do sistema: voto.html;
 
 ================================================================================================================
 
-Product Owner: Carlos Silva
+Product Owner: Carlos Silva 
+
 Scrum Master: Sheron Kup
+
 Dev team:
   - João Batista
   - Enzo Reis
