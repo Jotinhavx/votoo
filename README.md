@@ -8,7 +8,7 @@ voto main.js;
 Estilo com o usuário: voto.css;
 Estilo do sistema: voto.html;
 
-===========================================================
+================================================================================================================
 
 Product Owner: Carlos Silva
 Scrum Master: Sheron Kup
